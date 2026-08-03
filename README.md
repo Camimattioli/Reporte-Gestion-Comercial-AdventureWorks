@@ -23,5 +23,5 @@ este mismo repositorio: `ventas.sql`, `compras.sql`, `RRHH.sql`.
 
 ## Capturas del dashboard
 ![Página de Ventas](Capturas/Ventas.png)
-![Página de Ventas](Capturas/Compas.png)
+![Página de Ventas](Capturas/Compras.png)
 ![Página de Ventas](Capturas/RRHH.png)
