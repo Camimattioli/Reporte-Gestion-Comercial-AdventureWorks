@@ -22,6 +22,6 @@ Las consultas usadas para extraer y transformar los datos están en
 este mismo repositorio: `ventas.sql`, `compras.sql`, `RRHH.sql`.
 
 ## Capturas del dashboard
-![Página de Ventas](capturas/Ventas.png)
-![Página de Ventas](capturas/Compas.png)
-![Página de Ventas](capturas/RRHH.png)
+![Página de Ventas](Capturas/Ventas.png)
+![Página de Ventas](Capturas/Compas.png)
+![Página de Ventas](Capturas/RRHH.png)
