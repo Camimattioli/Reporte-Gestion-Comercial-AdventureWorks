@@ -1,4 +1,4 @@
-# Reporte-Gestion-Comercial-AdventureWorks
+# Reporte Gestion Comercial
 Datos de la base AdventureWorks, extraídos con SQL Server y consultas propias, visualizados en Power BI
 
 ## Objetivo
